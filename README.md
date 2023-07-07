@@ -13,8 +13,6 @@ PHP를 활용한 웹사이트 만들기(의류쇼핑몰)
 ## ⚙️ 사용한 스킬
 Html, Css, JavaScript, PHP, MySQL
 
-#### 관리자
-
 ## 📌 주요 기능
 ### 로그인
 - ID찾기, PW찾기
