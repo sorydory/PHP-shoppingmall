@@ -1,5 +1,6 @@
 # 🖥️ 프로젝트 소개
 PHP를 활용한 웹사이트 (의류쇼핑몰)
+![php쇼핑몰](https://github.com/sorydory/PHP-shoppingmall/assets/116371230/dacf716d-0297-49fb-9593-e37c91707096)
 <br>
 
 ## 🕰️ 개발 기간
