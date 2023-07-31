@@ -1,5 +1,7 @@
 # 🖥️ 프로젝트 소개
-PHP를 활용한 웹사이트 (의류쇼핑몰)
+### PHP를 활용한 웹사이트 (iiim의류쇼핑몰)
+>- MBTI가 I인 팀원 3명이 모여 iii, 남성쇼핑몰man의 m을 따서 iiim 입니다.
+>- PHP로 만든 첫 프로젝트인만큼 평소 관심있던 쇼핑몰 웹 사이트를 프로젝트로 만들어보았습니다.
 ![php쇼핑몰](https://github.com/sorydory/PHP-shoppingmall/assets/116371230/dacf716d-0297-49fb-9593-e37c91707096)
 <br>
 
